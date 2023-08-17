@@ -11,4 +11,4 @@ To run the Pokedex website locally, follow this steps: [jesmyn/ch'ng help please
 <h3> <br>/ Demo / <br> </h3>
 For life demo of our Pokedex website, visit [ https://     ]
 <h3> <br>/ Screenshot / <br> </h3>
-<img src="screenshot1" width="500" height="333">
+<img src="screenshot1.jpeg">
