@@ -3,64 +3,61 @@
 <head> 
     <title>Pokedex</title> 
     <link rel="stylesheet" href="style.css">
-    <script>
-body{
-    font-family: sans-serif;
-    background-image: url("Assets/background.jpg");
-}
+    <style>
+        body{
+            font-family: sans-serif;
+            background: url("Assets/background.jpg") #7fbc87;
+        }
+        .pokedex { 
+            width: 300px; 
+            padding: 20px; 
+            border: 1px solid black; 
+            border-radius: 25px; 
+            text-align: center; 
+            margin: 75px;
+            position: relative;
+            width: 20%;
+            background-color: rgb(207, 252, 219);
+            float: left;
+        } 
+        
+        .pokedex img { 
+            width: 200px; 
+            height: 200px; 
+            margin-bottom: 10px; 
+        } 
 
+        .overlay {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            height: 100%;
+            width: 100%;
+            opacity: 0;
+            transition: .5s ease;
+            background-color: rgb(150, 230, 179); 
+            border-radius: 25px;
+            font-size: 150%;
+        }
 
-.pokedex { 
-    width: 300px; 
-    padding: 20px; 
-    border: 1px solid black; 
-    border-radius: 25px; 
-    text-align: center; 
-    margin: 75px;
-    position: relative;
-    width: 20%;
-    background-color: rgb(207, 252, 219);
-    float: left;
-} 
- 
-.pokedex img { 
-    width: 200px; 
-    height: 200px; 
-    margin-bottom: 10px; 
-} 
+        .pokedex:hover .overlay {
+            opacity: 1;
+        }
 
-.overlay {
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    height: 100%;
-    width: 100%;
-    opacity: 0;
-    transition: .5s ease;
-    background-color: rgb(150, 230, 179); 
-    border-radius: 25px;
-    font-size: 150%;
-}
-
-.pokedex:hover .overlay {
-    opacity: 1;
-}
-
-.title{
-    text-align: center;
-    font-size: 200%;
-}
-
-    </script>
+        .title{
+            text-align: center;
+            font-size: 200%;
+        }
+    </style>
 </head> 
 <body> 
     <div class="title">
         <h1>THE OVERSIMPLIFIED POKEDEX</h1>
     </div>
     <div class="pokedex">  
-        <img src="Assets/bulbasaur.png" alt="Bulbasaur"> 
+        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/1.svg" alt="Bulbasaur"> 
         <h1>Bulbasaur</h1>
         <div class="overlay">
             <h2>Description</h2> 
@@ -71,7 +68,7 @@ body{
         </div>
     </div> 
     <div class="pokedex">
-        <img src="Assets/rayquaza.jpg" alt="Rayquaza">
+        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/384.svg" alt="Rayquaza">
         <h1>Rayquaza</h1>
         <div class="overlay">
             <h2>Description</h2>
@@ -82,7 +79,7 @@ body{
         </div>
     </div>
     <div class="pokedex">
-        <img src="Assets/snivy.png" alt="Snivy">
+        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/495.svg" alt="Snivy">
         <h1>Snivy</h1>
         <div class="overlay">
             <h2>Description</h2>
