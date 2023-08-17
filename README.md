@@ -23,3 +23,4 @@ Yen Han : Does the readme and chooses pokemon. <br>
 <h3> <br>/ Overview / <br> </h3>
 <img src="found not found.jpeg">
 We had a hard time making the ssh key and commiting the changes. Thus, due to time constraints, we have provided you this image.
+Not just that, we have our exams during the time limit, thus we barely managed to finish this website. i have my own condolences.
