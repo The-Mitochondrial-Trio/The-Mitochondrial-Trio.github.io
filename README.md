@@ -14,3 +14,5 @@ For life demo of our Pokedex website, visit [ https://     ]
 <img src="screenshot1.jpeg">
 <h3> <br>/ ChatGPT Prompts and Responses / <br> </h3>
 we did not use any, purely by hand and mind adding with a little help from css
+<h3> <br>/ Inspiration / <br> </h3>
+we got inspired by various colours of pokemons, specifically green. Moreover, our group name : The Mitochondria Trio, has inspired us as sometimes mitochondria appers green.
