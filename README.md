@@ -21,3 +21,4 @@ Jesmyn : Code the html and css <br>
 Yu Shi : Brainstorming and checking the website. <br>
 Yen Han : Does the readme and chooses pokemon. <br>
 <h3> <br>/ Overview / <br> </h3>
+<img src="found not found.jpeg">
