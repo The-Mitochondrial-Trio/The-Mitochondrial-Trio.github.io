@@ -17,6 +17,6 @@ we did not use any, purely by hand and mind adding with a little help from css
 <h3> <br>/ Inspiration / <br> </h3>
 we got inspired by various colours of pokemons, specifically green. Moreover, our group name : The Mitochondria Trio, has inspired us as sometimes mitochondria appears green.
 <h3> <br>/ Contributions / <br> </h3>
-Jesmyn : ... <br>
-Yu Shi : ... <br>
-Yen Han : ... <br>
+Jesmyn : Code the html and css <br>
+Yu Shi : Brainstorming and checking the website. <br>
+Yen Han : Does the readme and chooses pokemon. <br>
