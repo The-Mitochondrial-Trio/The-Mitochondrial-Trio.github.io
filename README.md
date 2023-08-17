@@ -22,3 +22,4 @@ Yu Shi : Brainstorming and checking the website. <br>
 Yen Han : Does the readme and chooses pokemon. <br>
 <h3> <br>/ Overview / <br> </h3>
 <img src="found not found.jpeg">
+We had a hard time making the ssh key and commiting the changes. Thus, due to time constraints, we have provided you this image.
