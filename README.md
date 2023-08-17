@@ -6,6 +6,9 @@ The Pokedex website will allow the users to search the pokemon's description thr
 It wil include the other features:  <li> pop up information </li> <li> colour coded background </li>
 <br> <h3>/ Technologies Used / <br> </h3>
 For this project, we used the following front-end technologies:  <od><li>google</li> <li>visual studio</li> <li>GIT</li> </od>
-<br> <h3>/ Installation and Setup / <br> </h3>
+ <h3><br>/ Installation and Setup / <br> </h3>
 To run the Pokedex website locally, follow this steps: [jesmyn/ch'ng help please]
 <h3> <br>/ Demo / <br> </h3>
+For life demo of our Pokedex website, visit [ https://     ]
+<h3> <br>/ Screenshot / <br> </h3>
+<img src="screenshot1" width="500" height="333">
