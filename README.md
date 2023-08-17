@@ -9,7 +9,7 @@ For this project, we used the following front-end technologies:  <od><li>google<
  <h3><br>/ Installation and Setup / <br> </h3>
 To run the Pokedex website locally, follow this steps: 
 <h3> <br>/ Demo / <br> </h3>
-For life demo of our Pokedex website, visit https://watch?v=M5V_IXMewl4)
+For life demo of our Pokedex website, visit https://watch?=M5V_IXMewl4)
 <h3> <br>/ Screenshot / <br> </h3>
 <img src="screenshot1.jpeg">
 <h3> <br>/ ChatGPT Prompts and Responses / <br> </h3>
