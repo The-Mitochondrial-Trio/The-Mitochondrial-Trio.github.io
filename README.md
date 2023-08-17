@@ -7,7 +7,7 @@ It wil include the other features:  <li> pop up information </li> <li> colour co
 <br> <h3>/ Technologies Used / <br> </h3>
 For this project, we used the following front-end technologies:  <od><li>google</li> <li>visual studio</li> <li>GIT</li> </od>
  <h3><br>/ Installation and Setup / <br> </h3>
-To run the Pokedex website locally, follow this steps: [jesmyn/ch'ng help please]
+To run the Pokedex website locally, follow this steps: 
 <h3> <br>/ Demo / <br> </h3>
 For life demo of our Pokedex website, visit [ https://     ]
 <h3> <br>/ Screenshot / <br> </h3>
