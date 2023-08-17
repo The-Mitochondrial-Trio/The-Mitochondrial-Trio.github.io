@@ -7,9 +7,9 @@ It wil include the other features:  <li> pop up information </li> <li> colour co
 <br> <h3>/ Technologies Used / <br> </h3>
 For this project, we used the following front-end technologies:  <od><li>google</li> <li>visual studio</li> <li>GIT</li> </od>
  <h3><br>/ Installation and Setup / <br> </h3>
-To run the Pokedex website locally, follow this steps: 
+To run the Pokedex website locally, follow this steps: Open the link below.
 <h3> <br>/ Demo / <br> </h3>
-For life demo of our Pokedex website, visit https://your life?v=M5V_IXMewl4
+For life demo of our Pokedex website, visit https://github.com/GreenPen123/The_Mitochondrial_Trio.io/tree/main
 <h3> <br>/ Screenshot / <br> </h3>
 <img src="screenshot1.jpeg">
 <h3> <br>/ ChatGPT Prompts and Responses / <br> </h3>
