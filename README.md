@@ -12,3 +12,5 @@ To run the Pokedex website locally, follow this steps: [jesmyn/ch'ng help please
 For life demo of our Pokedex website, visit [ https://     ]
 <h3> <br>/ Screenshot / <br> </h3>
 <img src="screenshot1.jpeg">
+<h3> <br>/ ChatGPT Prompts and Responses / <br> </h3>
+we did not use any, purely by hand and mind adding with a little help from css
